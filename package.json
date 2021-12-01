@@ -62,7 +62,7 @@
     "compression-webpack-plugin": "^1.1.11",
     "croppie": "^2.6.4",
     "css-loader": "2.1.1",
-    "@joeattardi/emoji-button": "^2.5.4",
+    "@joeattardi/emoji-button": "^4.6.2",
     "extract-text-webpack-plugin": "^3.0.2",
     "fabric": "1.6.7",
     "file-loader": "^4.0.0",
